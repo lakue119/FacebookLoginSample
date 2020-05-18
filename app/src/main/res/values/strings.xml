@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FacebookSample</string>
+
+    <string name="facebook_app_id">앱 키</string>
+</resources>
